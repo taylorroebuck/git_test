@@ -1,0 +1,1 @@
+This is Taylor's first Git project (through The Odin Project, anyway)!
